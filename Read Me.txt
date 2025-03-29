@@ -42,8 +42,7 @@ This script performs the following actions:
 ## 📂 Download & Use
 
 **1. Download the latest version:**\
-[GitHub Repository](https://github.com/YOUR_USERNAME/Chrome-Policy-Remover) *(Replace with your GitHub link)*
-
+[GitHub Repository](https://github.com/YunishGit/Chrome-Policy-Remover-3.0.git)
 **2. Extract & Run:**
 
 - Extract the `.zip` file (if applicable).
@@ -69,14 +68,14 @@ Unauthorized use may result in legal action.
 
 See the LICENSE file for full details.
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the Apache License - see the LICENSE file for details.
 
 ---
 
 ## 🤝 Contribute & Support
 
-If this tool helped you, consider **sharing it** or contributing improvements!\
+If this tool helped you, consider **sharing it** or contributing improvements!
 For suggestions or issues, open an issue on **GitHub** or post in relevant tech forums.
 
 **Created with love by Yunish Chaulagain**
-
+Copyright © 2025, Yunish Chaulagain @ All Rights Reserved.
