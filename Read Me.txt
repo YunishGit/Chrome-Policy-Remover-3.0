@@ -1,4 +1,6 @@
-## Chrome Policy Remover v3.0 ##
+                                                         ========================================   
+                                                             ## Chrome Policy Remover v3.0 ##
+                                                         ========================================
 
 ## 🛠 About
 
@@ -78,5 +80,5 @@ If this tool helped you, consider **sharing it** or contributing improvements!
 For suggestions or issues, open an issue on **GitHub** or post in relevant tech forums.
 
 
-                                                **Created with love by Yunish Chaulagain**
+                                                **Created with Love by Yunish Chaulagain**
                                          Copyright © 2025, Yunish Chaulagain @ All Rights Reserved.
