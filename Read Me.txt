@@ -1,0 +1,82 @@
+## Chrome Policy Remover v3.0 ##
+
+## 🛠 About
+
+Chrome Policy Remover is used when Chrome displays messages like **"Your browser is managed by your organization"** or when unwanted pop-ups and restrictions appear. It removes enforced policies, restoring full control over Chrome settings.
+Chrome Policy Remover is a powerful and easy-to-use batch script designed to **remove unwanted Chrome policies** that may have been enforced by organizations or malware. This tool helps users regain full control over their Google Chrome settings.
+
+- Removes restrictive Chrome policies
+- Deletes registry entries and group policies
+- Restores Chrome to default policy settings
+- Simple, fast, and effective!
+
+---
+
+## ⚠️ Important Instructions
+
+### This tool must be **run with administrative privileges** while Chrome is in an open/running state.
+
+**Steps to Run:**
+
+1. **Keep Google Chrome running** (Do not close it).
+2. **Right-click** on `ChromePolicyRemover.bat`.
+3. Select **Run as administrator**.
+4. The script will execute and remove all unwanted policies.
+5. Once completed, a sound notification will play.
+6. Press any key to exit.
+
+---
+
+## 🔧 How It Works
+
+This script performs the following actions:
+
+- **Closes Chrome processes** (if running in the background)
+- **Removes Group Policies** related to Chrome
+- **Deletes restrictive registry keys** that enforce unwanted settings
+- **Refreshes system policies (gpupdate /force)**
+- **Plays a success sound notification** once finished
+
+---
+
+## 📂 Download & Use
+
+**1. Download the latest version:**\
+[GitHub Repository](https://github.com/YOUR_USERNAME/Chrome-Policy-Remover) *(Replace with your GitHub link)*
+
+**2. Extract & Run:**
+
+- Extract the `.zip` file (if applicable).
+- **Follow the above instructions** to run it with admin rights.
+
+---
+
+## 🛑 Disclaimer
+
+This script is provided **as-is** without any warranties. Use at your own risk. **Ensure you have administrator access** before running it.
+
+---
+
+📜 License
+
+This project is licensed under a Proprietary License. It is the exclusive property of Yunish Chaulagain.
+
+Users may use the script for personal purposes.
+
+Modification, redistribution, or resale is strictly prohibited.
+
+Unauthorized use may result in legal action.
+
+See the LICENSE file for full details.
+
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+---
+
+## 🤝 Contribute & Support
+
+If this tool helped you, consider **sharing it** or contributing improvements!\
+For suggestions or issues, open an issue on **GitHub** or post in relevant tech forums.
+
+**Created with love by Yunish Chaulagain**
+
